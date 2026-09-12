@@ -9,9 +9,9 @@
     "shoulder_lift": {
         "id": 2,
         "drive_mode": 0,
-        "homing_offset": -1646,
-        "range_min": 853,
-        "range_max": 3219
+        "homing_offset": -1225,
+        "range_min": 826,
+        "range_max": 3192
     },
     "elbow_flex": {
         "id": 3,
