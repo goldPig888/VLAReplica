@@ -5,7 +5,7 @@ from lerobot.teleoperators.so_leader import SO101LeaderConfig, SO101Leader
 
 config = SO101FollowerConfig(
     port="/dev/ttyACM0", # Change to correct serial port for your SO-101
-    id="test3", 
+    id="test3",
 )
 
 follower = SO101Follower(config)
